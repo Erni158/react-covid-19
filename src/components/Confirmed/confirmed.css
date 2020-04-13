@@ -1,0 +1,9 @@
+.confirmed {
+    position: absolute;
+    width: 20vw;
+    height: 25vh;
+    top: 50%;
+    transform: translate(0, -50%);
+    background-color: #000;
+    color: #fff;
+}
